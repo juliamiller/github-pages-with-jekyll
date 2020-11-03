@@ -1,10 +1,9 @@
-theme: minima
 title: Video Transcoding Workflows for PARADISEC
 author: Julia Colleen Miller
 email: julia.miller@anu.edu.au
 description: > # this means to ignore newlines until "baseurl:"
   This site contains the latest workflows for digital-to-digital transcoding for the PARADISEC archive
-
+theme: minima
 # social links
 twitter_username: Spectregraph # DO NOT include the @ character, or else the build will fail!
 github_username:  juliamiller # DO NOT include the @ character, or else the build will fail!
