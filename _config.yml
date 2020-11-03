@@ -1,4 +1,6 @@
-title: Video Transcoding Workflows for PARADISEC
+---
+title: "Video Transcoding Workflows for PARADISEC"
+date: 2020-11-03
 author: Julia Colleen Miller
 email: julia.miller@anu.edu.au
 description: > # this means to ignore newlines until "baseurl:"
@@ -9,3 +11,4 @@ twitter_username: Spectregraph # DO NOT include the @ character, or else the bui
 github_username:  juliamiller # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
+---
